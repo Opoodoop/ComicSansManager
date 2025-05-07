@@ -25,11 +25,6 @@ This project doesn’t just slap Comic Sans on your screen—it does so responsi
 - 🛑 Tamper Warning:
   If you lose the backup, that’s on you, buddy. We warned you. In **bold. Twice**.
 
-- Creates a backup at first launch
-- easy to use prompt for install and uninstalling
-- installs the system fonts easily auditable from the staged.reg file
-- uninstalls by loading the backup created at first launch
-
 ⚠️ Remember to keep the backup secure for easy restoring
 
 ## Installation
